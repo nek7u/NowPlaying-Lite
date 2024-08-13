@@ -6,7 +6,7 @@ A [Rainmeter](https://www.rainmeter.net/) NowPlaying skin for Microsoft Windows.
 [Rainmeter](https://www.rainmeter.net/) is a desktop customization tool for Microsoft Windows.  
 
 ## Download
-📦 [NowPlaying-Lite.rmskin](https://github.com/nek7u/NowPlaying-Lite/releases/latest/download/NowPlaying-Lite.rmskin) (2.31 MB, GitHub.com)  
+📦 [NowPlaying-Lite.rmskin](https://github.com/nek7u/NowPlaying-Lite/releases/latest/download/NowPlaying-Lite.rmskin) (2.32 MB, GitHub.com)  
 > SHA256 `d572d382d59be93c8452dc230df0fb679d3d5b8120f22d15ee31559546e941e6`  
 
 > 📂 The default location of the skin installed  
