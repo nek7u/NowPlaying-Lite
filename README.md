@@ -1,3 +1,5 @@
+![Windows](./images/misc/badge-windows10-11.svg) [![Rainmeter](./images/misc/badge-rainmeter45gt.svg)](https://www.rainmeter.net/) ![](./images/misc/badge-scalableskin.svg)  
+
 # NowPlaying Lite
 ![](./images/nowplaying_lite.png)  
 A [Rainmeter](https://www.rainmeter.net/) NowPlaying skin for Microsoft Windows.  
