@@ -16,7 +16,7 @@ A [Rainmeter](https://www.rainmeter.net/) NowPlaying skin for Microsoft Windows.
 * 2024-08-14 (YYYY-MM-DD)
   * Initial release.
 
-<p align="right"><a href="#"><img src="./images/misc/arrow_up.svg" width="48" /></a></p>
+<p align="right"><a href=".#"><img src="./images/misc/arrow_up.svg" width="48" /></a></p>
 
 💡 **Volume controls are occasionally not working.**  
 
