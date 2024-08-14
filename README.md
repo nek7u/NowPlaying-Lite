@@ -22,7 +22,7 @@ A [Rainmeter](https://www.rainmeter.net/) NowPlaying skin for Microsoft Windows.
 
 ![](./images/choose_app.png)  
 **You can fix that by...**  
-1. Right-click on the speaker icon.
+1. Right-click on the speaker button.
 2. Select app name from the context menu.  
 
 <p align="right"><a href="#"><img src="./images/misc/arrow_up.svg" width="48" /></a></p>
