@@ -33,21 +33,20 @@ A [Rainmeter](https://www.rainmeter.net/) NowPlaying skin for Microsoft Windows.
 
 **Plugins and Addons**
 * [ActionTimer](https://docs.rainmeter.net/manual/plugins/actiontimer/), [RunCommand](https://docs.rainmeter.net/manual/plugins/runcommand/) by [Brian](https://github.com/brianferguson)
-* [ConfigActive](https://forum.rainmeter.net/viewtopic.php?t=28720) by [jsmorley](https://github.com/jsmorley) and [TheAzack9](https://github.com/TheAzack9)  
+* [ConfigActive](https://forum.rainmeter.net/viewtopic.php?t=28720) by [jsmorley](https://github.com/jsmorley) and [TheAzack9](https://github.com/TheAzack9)
 * [Mouse.dll](https://github.com/NighthawkSLO/Mouse.dll) by [NighthawkSLO](https://github.com/NighthawkSLO)
 * [MediaPlayer](https://github.com/i2002/RainmeterMediaPlayer) by [i2002](https://github.com/i2002)
 * [AppVolume](https://github.com/khanhas/AppVolumePlugin) by [khanhas](https://github.com/khanhas)
 * [FileChoose](https://forum.rainmeter.net/viewtopic.php?t=33767) by Setsukka
-
-* [nircmd.exe](https://www.nirsoft.net/utils/nircmd.html) (64 bit) by [NirSoft](https://www.nirsoft.net), SHA256 `7160DB2B7A6680480E64F0845512D203A575F807831FAF9A652AAEF0988F876C`  
+* [nircmd.exe](https://www.nirsoft.net/utils/nircmd.html) (64 bit) by [NirSoft](https://www.nirsoft.net), SHA256 `7160DB2B7A6680480E64F0845512D203A575F807831FAF9A652AAEF0988F876C`
 
 **Fonts & Icons**
 * [tabler Icons](https://github.com/tabler/tabler-icons) by [Paweł Kuna](https://github.com/codecalm)
-* Roboto Flex by [Google Fonts](https://fonts.google.com/?query=Roboto)  
+* Roboto Flex by [Google Fonts](https://fonts.google.com/?query=Roboto)
 
 **Code & Techniques**
 * [Advanced custom skin context menus](https://forum.rainmeter.net/viewtopic.php?t=20050) by [jsmorley](https://github.com/jsmorley)
-* [#CURRENTSECTION# as a variable](https://forum.rainmeter.net/viewtopic.php?t=37787) by [Active Colors](https://www.deviantart.com/activecolors)  
+* [#CURRENTSECTION# as a variable](https://forum.rainmeter.net/viewtopic.php?t=37787) by [Active Colors](https://www.deviantart.com/activecolors)
 * Easing math functions by [https://easings.net](https://easings.net)
 
 <p align="right"><a href="#"><img src="./images/misc/arrow_up.svg" width="48" /></a></p>
