@@ -16,7 +16,7 @@ A [Rainmeter](https://www.rainmeter.net/) NowPlaying skin for Microsoft Windows.
 * 2024-08-14 (YYYY-MM-DD)
   * Initial release.
 
-<p align="right"><a href=".#"><img src="./images/misc/arrow_up.svg" width="48" /></a></p>
+<p align="right"><a href="#nowplaying-lite"><img src="./images/misc/arrow_up.svg" width="48" /></a></p>
 
 💡 **Volume controls are occasionally not working.**  
 
@@ -25,7 +25,7 @@ A [Rainmeter](https://www.rainmeter.net/) NowPlaying skin for Microsoft Windows.
 1. Right-click on the speaker button.
 2. Select app name from the context menu.  
 
-<p align="right"><a href="#"><img src="./images/misc/arrow_up.svg" width="48" /></a></p>
+<p align="right"><a href="#nowplaying-lite"><img src="./images/misc/arrow_up.svg" width="48" /></a></p>
 
 ## Acknowledgments
 **App**
@@ -49,4 +49,4 @@ A [Rainmeter](https://www.rainmeter.net/) NowPlaying skin for Microsoft Windows.
 * [#CURRENTSECTION# as a variable](https://forum.rainmeter.net/viewtopic.php?t=37787) by [Active Colors](https://www.deviantart.com/activecolors)
 * Easing math functions by [https://easings.net](https://easings.net)
 
-<p align="right"><a href="#"><img src="./images/misc/arrow_up.svg" width="48" /></a></p>
+<p align="right"><a href="#nowplaying-lite"><img src="./images/misc/arrow_up.svg" width="48" /></a></p>
