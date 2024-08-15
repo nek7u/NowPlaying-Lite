@@ -7,13 +7,15 @@ A [Rainmeter](https://www.rainmeter.net/) NowPlaying skin for Microsoft Windows.
 
 ## Download
 📦 [NowPlaying-Lite.rmskin](https://github.com/nek7u/NowPlaying-Lite/releases/latest/download/NowPlaying-Lite.rmskin) (2.32 MB, GitHub.com)  
-> SHA256 `d572d382d59be93c8452dc230df0fb679d3d5b8120f22d15ee31559546e941e6`  
+> SHA256 `c9a762a94cf46692ad282a076b39c2a66d9a073eb7aad17ee9e1aed898002828`  
 
 > 📂 The default location of the skin installed  
 > `C:\Users\%UserName%\Documents\Rainmeter\Skins\NowPlaying Lite`  
 
 ## Changelog
-* 2024-08-14 (YYYY-MM-DD)
+* 2024-08-15 (YYYY-MM-DD)
+  * Fixed some code.
+* 2024-08-14
   * Initial release.
 
 <p align="right"><a href="#nowplaying-lite"><img src="./images/misc/arrow_up.svg" width="48" /></a></p>
