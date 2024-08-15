@@ -20,7 +20,7 @@ A [Rainmeter](https://www.rainmeter.net/) NowPlaying skin for Microsoft Windows.
 
 <p align="right"><a href="#nowplaying-lite"><img src="./images/misc/arrow_up.svg" width="48" /></a></p>
 
-💡 **Volume controls are occasionally not working.**  
+💡 **Volume control is occasionally not working.**  
 
 ![](./images/choose_app.png)  
 **You can fix that by...**  
