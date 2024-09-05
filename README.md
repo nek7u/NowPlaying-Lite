@@ -37,6 +37,7 @@ A [Rainmeter](https://www.rainmeter.net/) NowPlaying skin for Microsoft Windows.
 
 Controls|Mouse Action|Description
 :-:|:-|:-
+Skin|Left-click|Play/Pause current track
 Skin|Right-click|Show context menu
 Skin|Middle-click|Refresh skin
 ![](./images/controls/player-play.svg)|Left-click|Play current track
