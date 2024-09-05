@@ -6,14 +6,16 @@ A [Rainmeter](https://www.rainmeter.net/) NowPlaying skin for Microsoft Windows.
 [Rainmeter](https://www.rainmeter.net/) is a desktop customization tool for Microsoft Windows.  
 
 ## Download
-📦 [NowPlaying-Lite.rmskin](https://github.com/nek7u/NowPlaying-Lite/releases/latest/download/NowPlaying-Lite.rmskin) (2.32 MB, GitHub.com)  
-> SHA256 `c9a762a94cf46692ad282a076b39c2a66d9a073eb7aad17ee9e1aed898002828`  
+📦 [NowPlaying-Lite.rmskin](https://github.com/nek7u/NowPlaying-Lite/releases/latest/download/NowPlaying-Lite.rmskin) (2.36 MB, GitHub.com)  
+> SHA256 `ca7b0072f95d3197d6e3feac7f18762344114f772937ef5d99a597db99e8b644`  
 
 > 📂 The default location of the skin installed  
 > `C:\Users\%UserName%\Documents\Rainmeter\Skins\NowPlaying Lite`  
 
 ## Changelog
-* 2024-08-15 (YYYY-MM-DD)
+* 2024-09-06 (YYYY-MM-DD)
+  * Added some option settings.
+* 2024-08-15
   * Fixed some code.
 * 2024-08-14
   * Initial release.
@@ -26,6 +28,27 @@ A [Rainmeter](https://www.rainmeter.net/) NowPlaying skin for Microsoft Windows.
 **You can fix that by...**  
 1. Right-click on the speaker button.
 2. Select app name from the context menu.  
+
+<p align="right"><a href="#nowplaying-lite"><img src="./images/misc/arrow_up.svg" width="48" /></a></p>
+
+## Usage
+
+<br />
+
+Controls|Mouse Action|Description
+:-:|:-|:-
+Skin|Right-click|Show context menu
+Skin|Middle-click|Refresh skin
+![](./images/controls/player-play.svg)|Left-click|Play current track
+![](./images/controls/player-pause.svg)|Left-click|Pause current track
+![](./images/controls/player-skip-back.svg)|Left-click|Change to previous track
+![](./images/controls/player-skip-back.svg)|Right-click|Jump to the beginning of the track
+![](./images/controls/player-skip-forward.svg)|Left-click|Change to next track
+![](./images/controls/player-skip-forward.svg)|Right-click|Jump to the end of the track
+![](./images/controls/volume.svg)|Left-click|Mute
+![](./images/controls/volume.svg)|Right-click|Show context menu
+![](./images/controls/volume.svg)|Scroll|Change volume
+
 
 <p align="right"><a href="#nowplaying-lite"><img src="./images/misc/arrow_up.svg" width="48" /></a></p>
 
