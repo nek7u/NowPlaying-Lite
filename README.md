@@ -7,13 +7,16 @@ A [Rainmeter](https://www.rainmeter.net/) NowPlaying skin for Microsoft Windows.
 
 ## Download
 📦 [NowPlaying-Lite.rmskin](https://github.com/nek7u/NowPlaying-Lite/releases/latest/download/NowPlaying-Lite.rmskin) (2.36 MB, GitHub.com)  
-> SHA256 `ca7b0072f95d3197d6e3feac7f18762344114f772937ef5d99a597db99e8b644`  
+> SHA256 `883972d41f02a6119f9f02e05244ef0d00268c5d04485b477ffb47367be5fb76`  
 
 > 📂 The default location of the skin installed  
 > `C:\Users\%UserName%\Documents\Rainmeter\Skins\NowPlaying Lite`  
 
 ## Changelog
-* 2024-09-06 (YYYY-MM-DD)
+* 2024-09-27 (YYYY-MM-DD)
+  * Fixed garbled characters appears on the context menu.
+  * Fixed command of desktop shortcut to load the skin.
+* 2024-09-06
   * Added some option settings.
 * 2024-08-15
   * Fixed some code.
