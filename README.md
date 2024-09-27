@@ -25,12 +25,16 @@ A [Rainmeter](https://www.rainmeter.net/) NowPlaying skin for Microsoft Windows.
 
 <p align="right"><a href="#nowplaying-lite"><img src="./images/misc/arrow_up.svg" width="48" /></a></p>
 
-💡 **Volume control is occasionally not working.**  
+<!-- 💡 **Volume control is occasionally not working.**  -->
+
+> [!NOTE]
+> Volume control is occasionally not working.  
+> **You can fix that by...**  
+> 1. Right-click on the speaker button.  
+> 2. Select app name from the context menu.    
 
 ![](./images/choose_app.png)  
-**You can fix that by...**  
-1. Right-click on the speaker button.
-2. Select app name from the context menu.  
+
 
 <p align="right"><a href="#nowplaying-lite"><img src="./images/misc/arrow_up.svg" width="48" /></a></p>
 
@@ -40,9 +44,6 @@ A [Rainmeter](https://www.rainmeter.net/) NowPlaying skin for Microsoft Windows.
 
 Controls|Mouse Action|Description
 :-:|:-|:-
-Skin|Left-click|Play/Pause current track
-Skin|Right-click|Show context menu
-Skin|Middle-click|Refresh skin
 ![](./images/controls/player-play.svg)|Left-click|Play current track
 ![](./images/controls/player-pause.svg)|Left-click|Pause current track
 ![](./images/controls/player-skip-back.svg)|Left-click|Change to previous track
@@ -52,7 +53,9 @@ Skin|Middle-click|Refresh skin
 ![](./images/controls/volume.svg)|Left-click|Mute
 ![](./images/controls/volume.svg)|Right-click|Show context menu
 ![](./images/controls/volume.svg)|Scroll|Change volume
-
+Skin|Left-click|Play/Pause current track
+Skin|Right-click|Show context menu
+Skin|Middle-click|Refresh skin
 
 <p align="right"><a href="#nowplaying-lite"><img src="./images/misc/arrow_up.svg" width="48" /></a></p>
 
