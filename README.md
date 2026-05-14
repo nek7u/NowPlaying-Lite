@@ -6,14 +6,18 @@ A [Rainmeter](https://www.rainmeter.net/) NowPlaying skin for Microsoft Windows.
 [Rainmeter](https://www.rainmeter.net/) is a desktop customization tool for Microsoft Windows.  
 
 ## Download
-📦 [NowPlaying-Lite.rmskin](https://github.com/nek7u/NowPlaying-Lite/releases/latest/download/NowPlaying-Lite.rmskin) (2.36 MB, GitHub.com)  
-> SHA256 `883972d41f02a6119f9f02e05244ef0d00268c5d04485b477ffb47367be5fb76`  
+📦 [NowPlaying-Lite.rmskin](https://github.com/nek7u/NowPlaying-Lite/releases/latest/download/NowPlaying-Lite.rmskin) (2.46 MB, GitHub.com)  
+> SHA256 `12d3e10f57ba6ed95599e35d7d872940e87f9163fd2da7bc0f1b58ab5f05ae5b`  
 
 > 📂 The default location of the skin installed  
 > `C:\Users\%UserName%\Documents\Rainmeter\Skins\NowPlaying Lite`  
 
 ## Changelog
-* 2024-09-27 (YYYY-MM-DD)
+* 2026-05-15 (YYYY-MM-DD)  
+  * Fixed an issue where searching by title or artist did not work.
+  * Updated **Color Tool**, **Font Selector**, **Slider** skins.
+  * Rewrote the code related to the context menu.
+* 2024-09-27
   * Fixed garbled characters appears on the context menu.
   * Fixed command of desktop shortcut to load the skin.
 * 2024-09-06
@@ -66,11 +70,12 @@ Skin|Middle-click|Refresh skin
 **Plugins and Addons**
 * [ActionTimer](https://docs.rainmeter.net/manual/plugins/actiontimer/), [RunCommand](https://docs.rainmeter.net/manual/plugins/runcommand/) by [Brian](https://github.com/brianferguson)
 * [ConfigActive](https://forum.rainmeter.net/viewtopic.php?t=28720) by [jsmorley](https://github.com/jsmorley) and [TheAzack9](https://github.com/TheAzack9)
-* [Mouse.dll](https://github.com/NighthawkSLO/Mouse.dll) by [NighthawkSLO](https://github.com/NighthawkSLO)
+* [Mouse.dll](https://github.com/jsmorley/PluginMouse) by [NighthawkSLO](https://github.com/NighthawkSLO), fixed by [RicardoTM](https://github.com/RicardoTM05), shared by [jsmorley](https://github.jsmorleycom/jsmorley)
 * [MediaPlayer](https://github.com/i2002/RainmeterMediaPlayer) by [i2002](https://github.com/i2002)
 * [AppVolume](https://github.com/khanhas/AppVolumePlugin) by [khanhas](https://github.com/khanhas)
 * [FileChoose](https://forum.rainmeter.net/viewtopic.php?t=33767) by Setsukka
 * [nircmd.exe](https://www.nirsoft.net/utils/nircmd.html) (64 bit) by [NirSoft](https://www.nirsoft.net), SHA256 `7160DB2B7A6680480E64F0845512D203A575F807831FAF9A652AAEF0988F876C`
+* [SetDpi.exe](https://github.com/imniko/SetDPI) by [imniko](https://github.com/imniko)
 
 **Fonts & Icons**
 * [tabler Icons](https://github.com/tabler/tabler-icons) by [Paweł Kuna](https://github.com/codecalm)
