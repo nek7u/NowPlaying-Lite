@@ -7,13 +7,15 @@ A [Rainmeter](https://www.rainmeter.net/) NowPlaying skin for Microsoft Windows.
 
 ## Download
 📦 [NowPlaying-Lite.rmskin](https://github.com/nek7u/NowPlaying-Lite/releases/latest/download/NowPlaying-Lite.rmskin) (2.46 MB, GitHub.com)  
-> SHA256 `12d3e10f57ba6ed95599e35d7d872940e87f9163fd2da7bc0f1b58ab5f05ae5b`  
+> SHA256 `35893bffa4ae31f947ccf016c936931fa87a53a90f8e2e0d90006826d3cfd68a`  
 
 > 📂 The default location of the skin installed  
 > `C:\Users\%UserName%\Documents\Rainmeter\Skins\NowPlaying Lite`  
 
 ## Changelog
-* 2026-05-15 (YYYY-MM-DD)  
+* 2026-07-10 (YYYY-MM-DD)  
+  * Fixed a potential issue with the syntax of an inline Lua. (Context menu)
+* 2026-05-15  
   * Fixed an issue where searching by title or artist did not work.
   * Updated **Color Tool**, **Font Selector**, **Slider** skins.
   * Rewrote the code related to the context menu.
