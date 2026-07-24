@@ -69,7 +69,7 @@ Skin|Middle-click|Refresh skin
 
 ## Acknowledgments
 **App**
-* [Rainmeter](https://www.rainmeter.net/) by [Developer team](https://github.com/rainmeter), [Brian](https://github.com/brianferguson), [jsmorley](https://github.com/jsmorley), [Community](https://forum.rainmeter.net/)  
+* [Rainmeter](https://www.rainmeter.net/) by [Developer team](https://github.com/rainmeter), [Brian](https://github.com/brianferguson), [jsmorley](https://github.com/jsmorley), [poiru](https://github.com/poiru), [Community](https://forum.rainmeter.net/)  
 
 **Plugins and Addons**
 * [ActionTimer](https://docs.rainmeter.net/manual/plugins/actiontimer/), [RunCommand](https://docs.rainmeter.net/manual/plugins/runcommand/) by [Brian](https://github.com/brianferguson)
